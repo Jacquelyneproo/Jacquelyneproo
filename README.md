@@ -1,4 +1,4 @@
-Boas vindas ao meu perfil 
+Bem vindo(a) ao meu perfil 
 Meu nome é Jacquelyne Dias de Sousa
 
 Estou estudando na Alura
